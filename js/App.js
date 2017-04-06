@@ -10,7 +10,7 @@ export default class App extends React.Component{
           <p>with Bootstrap and SASS.</p>
           <p>
             <Button className="btn btn-primary" href="#" target="_blank" />
-            <Button className="btn btn-danger" href="#" target="_blank" />
+            <Button className="btn btn-danger"  target="_blank" />
           </p>
         </div>
       </div>
